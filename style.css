@@ -27,3 +27,7 @@ ul li {
  ul li a:hover {
     background-color: rgb(223, 161, 188);
  }
+
+ ul li a.active { 
+    background-color: rgb(224, 163, 199);
+ }
