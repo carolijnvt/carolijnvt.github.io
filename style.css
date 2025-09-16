@@ -8,6 +8,17 @@
 
 body {
 
+ <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a class="active" href="binairstelsel.html">Binairstelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="Compressie.html">Compressie</a></li>
+        <li><a href="Invoer.html">Proces</a></li>
+        <li><a href="overmij.html">Over mij</a></li>
+    
+    </ul> 
+
+
     background-color: rgb(244, 149, 157);
     color: beige;
     font-family:Arial, Helvetica, sans-serif;
