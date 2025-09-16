@@ -7,7 +7,7 @@ body {
  
 
     background-color: rgb(244, 149, 157);
-    color: beige;
+    color: rgb(222, 161, 208);
     font-family:Arial, Helvetica, sans-serif;
     line-height: 1.6;
     margin: 0;
@@ -17,12 +17,12 @@ body {
 
 nav {
 
-    background-color: azure;
+    background-color: rgb(215, 164, 207);
     padding: 10px 0;
 }
 
 nav a { 
- color: white;
+ color: rgb(244, 209, 228);
  text-decoration: none;
  margin: 0 20px;
  font-weight: bold;
@@ -39,13 +39,13 @@ nav a:hover {
     max-width: 900px;
     margin: 30px auto;
     padding: 20px;
-    background: white;
+    background: rgb(232, 188, 188);
     border-radius: 12px;
     box-shadow: 0 3px 10px rgba(0,0,0,0,1);
 }
 
 h1 {
-    color: black;
+    color: rgb(239, 184, 184);
     text-align: center;
     margin-bottom: 20px;
 
