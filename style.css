@@ -14,26 +14,30 @@ body {
     padding: 0;
 }
 
-
-nav {
-
-    background-color: rgb(218, 178, 192);
-    padding: 10px 0;
+nav ul {
+  list-style: none;      /* bolletjes weghalen */
+  margin: 0;
+  padding: 0;
+  display: flex;         /* zet items naast elkaar */
+  justify-content: center; /* in het midden */
 }
 
-nav a { 
- color: rgb(224, 179, 204);
- text-decoration: none;
- margin: 0 20px;
- font-weight: bold;
- 
+nav li {
+  margin: 0 20px;        /* ruimte tussen de knoppen */
 }
 
-nav a:hover { 
-
-    text-decoration: underline;
-
+nav a {
+  color: white;          /* witte tekst */
+  text-decoration: none; /* geen onderlijning */
+  font-weight: bold;
+  transition: 0.3s;
 }
+
+nav a:hover {
+  color: #ffe6e6;        /* lichtere kleur bij hover */
+}
+
+
 
 .container {
     max-width: 900px;
