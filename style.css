@@ -21,7 +21,7 @@ nav ul {
   padding: 10px;
   display: flex;         /* zet items naast elkaar */
   justify-content: center; /* in het midden */
-  background-color: rgb(196, 219, 238);
+  background-color: rgb(166, 194, 216);
 }
 
 nav li {
@@ -45,7 +45,7 @@ nav a:hover {
   max-width: 900px;               /* breedte beperken */
   margin: 30px auto;              /* centreren met ruimte */
   padding: 20px;
-  background: white;              /* witte achtergrond */
+  background: rgb(189, 210, 232);              /* witte achtergrond */
   border-radius: 10px;            /* afgeronde hoeken */
   box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* zachte schaduw */
 }
