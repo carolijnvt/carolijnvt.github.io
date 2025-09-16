@@ -40,12 +40,14 @@ nav a:hover {
 
 
 .container {
-    max-width: 900px;
-    margin: 30px auto;
-    padding: 20px;
-    background: rgb(229, 167, 167);
-    border-radius: 12px;
-    box-shadow: 0 3px 10px rgba(0,0,0,0,1);
+  max-width: 900px;               /* breedte beperken */
+  margin: 30px auto;              /* centreren met ruimte */
+  padding: 20px;
+  background: white;              /* witte achtergrond */
+  border-radius: 10px;            /* afgeronde hoeken */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* zachte schaduw */
+}
+
 }
 
 h1 {
