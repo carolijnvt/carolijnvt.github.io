@@ -17,6 +17,7 @@ body {
 nav ul {
   list-style: none;      /* bolletjes weghalen */
   margin: 0;
+  color: antiquewhite;
   padding: 0;
   display: flex;         /* zet items naast elkaar */
   justify-content: center; /* in het midden */
