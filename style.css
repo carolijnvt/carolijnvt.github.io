@@ -21,6 +21,7 @@ nav ul {
   padding: 0;
   display: flex;         /* zet items naast elkaar */
   justify-content: center; /* in het midden */
+  background-color: aliceblue;
 }
 
 nav li {
