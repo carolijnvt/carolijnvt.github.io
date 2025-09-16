@@ -18,7 +18,7 @@ nav ul {
   list-style: none;      /* bolletjes weghalen */
   margin: 0;
   color: antiquewhite;
-  padding: 0;
+  padding: 10px;
   display: flex;         /* zet items naast elkaar */
   justify-content: center; /* in het midden */
   background-color: rgb(196, 219, 238);
