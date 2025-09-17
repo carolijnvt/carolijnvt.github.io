@@ -41,10 +41,3 @@ ul li a.active {
 
 
 
-div.flex-container {
-  display: flex;
-  flex-direction: row;
-}
-div.flex-container  {
-  margin: 10px;
-}
