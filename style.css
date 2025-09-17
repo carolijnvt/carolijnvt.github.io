@@ -39,4 +39,10 @@ ul li a.active {
   background-color: rgb(175, 217, 235); 
 } 
 
+.Paginakleur {
+  background-color: azure;
+  width: 60%;
+  display: block;
+  margin: auto;
+}
 
