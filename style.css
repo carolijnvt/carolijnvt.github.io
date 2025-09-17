@@ -47,4 +47,6 @@ ul li a.active {
   margin: auto;
 }
 
-
+.title {
+  margin-left: 50%;
+}
