@@ -41,15 +41,6 @@ nav a li:hover {
 
 
 
-.container {
-  max-width: 900px;               
-  margin: 30px auto;              
-  padding: 20px;
-  background: rgb(236, 230, 234);              
-  border-radius: 10px;            
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
-} 
-
 ul.topnav {
   display: flex;
   list-style-type: none;
