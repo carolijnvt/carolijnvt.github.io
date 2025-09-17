@@ -39,7 +39,12 @@ ul li a.active {
   background-color: rgb(175, 217, 235); 
 } 
 
+
+
 div.flex-container {
   display: flex;
   flex-direction: row;
+}
+div.flex-container > div {
+  margin: 10px;
 }
