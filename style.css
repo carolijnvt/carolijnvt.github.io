@@ -50,13 +50,27 @@ nav a li:hover {
   box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
 } 
 
-div {
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
+ul.topnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
 }
 
+
+ul.topnav li a {
+  display: block;
+  color: #f1f1f1;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul.topnav li a:hover {
+  background-color: #dddddd;
+  color: black;
+}
 h1 {
     color: rgb(12, 12, 12);
     text-align: center;
