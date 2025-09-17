@@ -42,6 +42,7 @@ ul li a.active {
 .Paginakleur {
   background-color: azure;
   width: 60%;
+  padding: 50px;
   display: block;
   margin: auto;
 }
