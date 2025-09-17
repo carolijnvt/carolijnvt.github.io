@@ -32,9 +32,9 @@ text-decoration: none;
 }
 
 ul li a:hover {
-  background-color: bisque;
+  background-color: rgb(222, 185, 203);
 }
 
 ul li a.active { 
-  background-color: black;
+  background-color: rgb(235, 175, 225);
 }
