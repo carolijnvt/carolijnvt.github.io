@@ -15,42 +15,47 @@ body {
 }
 
 nav ul {
-  list-style: none;      /* bolletjes weghalen */
+  list-style: none;      
   margin: 0;
   color: antiquewhite;
   padding: 10px;
-  display: flex;         /* zet items naast elkaar */
-  justify-content: center; /* in het midden */
+  display: flex;         
+  justify-content: center; 
   background-color: rgb(166, 194, 216);
 }
 
 nav li {
-  margin: 0 20px;        /* ruimte tussen de knoppen */
+  margin: 0 20px;        
 }
 
 nav a {
-  color: white;          /* witte tekst */
-  text-decoration: none; /* geen onderlijning */
+  color: white;          
+  text-decoration: none; 
   font-weight: bold;
   transition: 0.3s;
 }
 
-nav a:hover {
-  color: #190264;        /* lichtere kleur bij hover */
+nav a li:hover {
+  color: #190264;        
 }
 
 
 
 .container {
-  max-width: 900px;               /* breedte beperken */
-  margin: 30px auto;              /* centreren met ruimte */
+  max-width: 900px;               
+  margin: 30px auto;              
   padding: 20px;
-  background: rgb(236, 230, 234);              /* witte achtergrond */
-  border-radius: 10px;            /* afgeronde hoeken */
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* zachte schaduw */
+  background: rgb(236, 230, 234);              
+  border-radius: 10px;            
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); 
+} 
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
 }
-
-
 
 h1 {
     color: rgb(12, 12, 12);
