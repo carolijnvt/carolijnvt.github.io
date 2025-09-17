@@ -38,3 +38,8 @@ ul li a:hover {
 ul li a.active { 
   background-color: rgb(175, 217, 235); 
 } 
+
+div.flex-container {
+  display: flex;
+  flex-direction: row;
+}
