@@ -45,6 +45,6 @@ div.flex-container {
   display: flex;
   flex-direction: row;
 }
-div.flex-container > div {
+div.flex-container  {
   margin: 10px;
 }
