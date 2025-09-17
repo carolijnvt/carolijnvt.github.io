@@ -8,41 +8,33 @@ body {
 
     background-color: rgb(131, 168, 168);
     color: #1b191b;
-    font-family:Arial, Helvetica, sans-serif;
-    line-height: 1.6;
-    margin: 10px;
-    padding: 20px;
+    
 }
 
-nav ul {
-  list-style: none;      
+ul {
+  list-style-type: none;
   margin: 0;
-  color: antiquewhite;
-  padding: 10px;
-  display: flex;         
-  justify-content: center; 
-  background-color: rgb(166, 194, 216);
-}
-
-nav li {
-  margin: 0 20px;        
-}
-
-nav a {
-  color: white;          
-  text-decoration: none; 
-  font-weight: bold;
-  transition: 0.3s;
-}
-
-nav a li:hover {
-  color: #190264;        
+  padding: 0;
+  overflow: hidden;
+  background-color: antiquewhite;
 }
 
 
-h1 {
-    color: rgb(12, 12, 12);
-    text-align: center;
-    margin-bottom: 20px;
+ul li {
+  float: left;
+  }
+ul li a {
+display: block;
+color: aliceblue;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
 
+ul li a:hover {
+  background-color: bisque;
+}
+
+ul li a.active { 
+  background-color: black;
 }
