@@ -59,7 +59,13 @@ ul li a.active {
   margin: auto;
 }
 
-/*Dit is de titel van compressie die verschuift naar het midden*\
+
 .Title {
-  margin-left: 40%;
+  margin-left: 40%; /*Dit is de titel van compressie die verschuift naar het midden*\  
 }
+
+.video {
+margin-block-end: 40%;
+}
+
+
