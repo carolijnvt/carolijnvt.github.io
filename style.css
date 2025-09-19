@@ -50,3 +50,15 @@ ul li a.active {
 .title {
   margin-left: 40%;
 }
+
+.Tekst c {
+  background-color: #c8d9e8;
+  width: 60%;
+  padding: 50px;
+  display: block;
+  margin: auto;
+}
+
+.Title {
+  margin-left: 40%;
+}
