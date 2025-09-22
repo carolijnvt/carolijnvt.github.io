@@ -65,7 +65,8 @@ ul li a.active {
 }
 
 .video {
-margin-right: 40%;
+float: right;
 }
+
 
 
