@@ -69,8 +69,6 @@ float: right;
 }
 
 
-
-
 .binair {
   background-color: #c8d9e8;
   width: 60%;
@@ -93,4 +91,10 @@ float: right;
  
 .over {
   margin-left: 40%;
+}
+
+header {
+  background-color: #cfdbe6;
+  padding: 10px;
+  text-align: center;
 }
