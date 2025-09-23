@@ -82,3 +82,11 @@ float: right;
 .Titell {
   margin-left: 40%;
 }
+
+.Hoi {
+  background-color: #c8d9e8;
+  width: 60%;
+  padding: 50px;
+  display: block;
+  margin: auto;
+}
