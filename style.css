@@ -68,14 +68,6 @@ ul li a.active {
 float: right;
 }
 
-.binair {
-  padding: 20px;
-  width: 60%;
-  margin-left: 10%;
-  margin-right: auto;
-  text-align: justify;
-}
-
 
 .bin header {
   background-color: rgb(159, 173, 218);
