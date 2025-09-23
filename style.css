@@ -77,3 +77,8 @@ float: right;
 }
 
 
+header {
+  background-color: rgb(159, 173, 218);
+  text-align: center;
+  padding: 40%;
+}
