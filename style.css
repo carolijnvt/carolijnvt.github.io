@@ -90,3 +90,7 @@ float: right;
   display: block;
   margin: auto;
 }
+ 
+.over {
+  margin-left: 40%;
+}
