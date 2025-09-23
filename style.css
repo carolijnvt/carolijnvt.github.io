@@ -98,3 +98,11 @@ header {
   padding: 10px;
   text-align: center;
 }
+
+.hallo {
+  background-color: #c8d9e8;
+  width: 60%;
+  padding: 50px;
+  display: block;
+  margin: auto;
+}
