@@ -119,6 +119,6 @@ footer { /*naam onder aan de pagina*/
   bottom: 0;
   position: fixed;
 }
-.spacing {
+.spacing { /* spatie voor cijfers onder som*/
   word-spacing: 30px;
 }
