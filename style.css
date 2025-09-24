@@ -3,9 +3,6 @@
 
 
 body {
-
- 
-
     background-color: rgb(131, 168, 168);
     color: #1b191b;
     
@@ -112,6 +109,11 @@ float: right;
   display: block;
   margin: auto;
 }
-.h1 {
+.h1 { 
   margin-left: 40%;
+}
+footer {
+  background-color: #f1f1f1;
+  text-align: center;
+  padding: 8px;
 }
