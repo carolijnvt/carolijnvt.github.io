@@ -102,17 +102,17 @@ float: right;
 .Invoer {
   margin-left: 40%;
 }
-.home {
+.home { /*blok voor tekst8*/
   background-color: #c8d9e8;
   width: 60%;
   padding: 50px;
   display: block;
   margin: auto;
 }
-.h1 { 
+.h1 { /*Titel in het midden van de pagina boven blok.*/
   margin-left: 40%;
 }
-footer {
+footer { /*naam onder aan de pagina*/
   background-color: #d7e3f3;
   text-align: center;
   padding: 8px;
