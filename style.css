@@ -119,3 +119,6 @@ footer { /*naam onder aan de pagina*/
   bottom: 0;
   position: fixed;
 }
+.spacing {
+  word-spacing: 30px;
+}
