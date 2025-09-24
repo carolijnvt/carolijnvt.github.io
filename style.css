@@ -123,3 +123,9 @@ footer { /*naam onder aan de pagina*/
 .spacing { /* spatie voor cijfers onder som*/
   word-spacing: 1cm;
 }
+.getal {
+  word-spacing: 1cm;
+}
+.cijfer {
+  word-spacing: 1cm;
+}
