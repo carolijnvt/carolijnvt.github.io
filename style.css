@@ -17,18 +17,18 @@ ul { /* dit is de styling voor het menu*/
 }
 
 
-ul li {
-  float: left;
+ul li { 
+  float: left; /* zet de tekst van het menu naast elkaar in plaats van onder elkaar*/
   }
 ul li a {
-display: block;
-color: aliceblue;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
+display: block; /*zorgt ervoor dat de tekst van het menu in een blok zit */
+color: aliceblue; /* Tekstkleur van de tekst van het menu*/
+text-align: center; /* De tekst staat hierdoor in het midden van het blok*/
+padding: 14px 16px; /* zorgt voor ruimte tussen de tekst en de elementen*/
+text-decoration: none; /*zorgt voor versiering van de tekst zoals onderlijning*/
 }
 
-ul li a:hover {
+ul li a:hover { 
   background-color: rgb(221, 211, 216);
 }
 
@@ -38,14 +38,14 @@ ul li a.active {
 
 .Paginakleur {
   background-color: #c8d9e8;
-  width: 60%;
-  padding: 50px;
-  display: block;
-  margin: auto;
+  width: 60%; /* dit bepaalt hoe breed iets is*/
+  padding: 50px; /* binnenruimte in het blok*/
+  display: block; /* zorgt ervoor dat de tekst in het blok zit*/
+  margin: auto;  /* zorgt voor plaatsing van het blok*/
 }
 
 .title {
-  margin-left: 40%;
+  margin-left: 40%; /* zorgt voor plaatsing*/
 }
 
 .Tekst  {
@@ -62,7 +62,7 @@ ul li a.active {
 }
 
 .video {
-float: right;
+float: right; /*plaatst de video rechts op de pagina*/
 }
 
 
@@ -109,15 +109,15 @@ float: right;
   display: block;
   margin: auto;
 }
-.h1 { /*Titel in het midden van de pagina boven blok.*/
+.h1 { 
   margin-left: 40%;
 }
 footer { /*naam onder aan de pagina*/
   background-color: #d7e3f3; 
-  text-align: center;
+  text-align: center; 
   padding: 8px;
-  bottom: 0;
-  position: fixed;
+  bottom: 0; /* zorgt ervoor dat het op het uiteinde van de pagina zit*/
+  position: fixed; /*zorgt ervoor dat het altijd onderaan blijft*/
   width: 97%;
 }
 .spacing { /* Dit is een groep zodat die groep de aanpassing van hieronder krijgt*/
