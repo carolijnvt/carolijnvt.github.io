@@ -120,12 +120,12 @@ footer { /*naam onder aan de pagina*/
   position: fixed;
   width: 97%;
 }
-.spacing { /* spatie voor cijfers onder som*/
-  word-spacing: 1.4cm;
+.spacing { /* Dit is een groep zodat die groep de aanpassing van hieronder krijgt*/
+  word-spacing: 1.4cm; /*spatie voor cijfers onder som*/
 }
 .getal {
   word-spacing: 1cm;
 }
-.cijfer {
+.cijfer { 
   word-spacing: 1.1cm;
 }
