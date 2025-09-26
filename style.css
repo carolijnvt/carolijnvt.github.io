@@ -2,18 +2,18 @@
 
 
 
-body {
-    background-color: rgb(131, 168, 168);
-    color: #1b191b;
+body { 
+    background-color: rgb(131, 168, 168); /* Dit is de achtergrondkleur*/ 
+    color: #1b191b; /* kleur van tekst*/
     
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: rgb(215, 234, 250);
+ul { /* dit is de styling voor het menu*/
+  list-style-type: none; /* Dit zorgt ervoor dat de standaard bolletjes bij een lijst weg zijn*/
+  margin: 0; /*Het zorgt ervoor dat dit block niet tegen de rand van de pagina zit of tegen iets anders aan*/
+  padding: 0; /*verwijdert de standaard ruimte tussen de tekst en het einde van het element*/
+  overflow: hidden; /*Dit zorgt ervoor dat de inhoud binnen het blok blijft*/
+  background-color: rgb(215, 234, 250); /*Achtergrond kleur van het menu*/
 }
 
 
@@ -113,7 +113,7 @@ float: right;
   margin-left: 40%;
 }
 footer { /*naam onder aan de pagina*/
-  background-color: #d7e3f3;
+  background-color: #d7e3f3; 
   text-align: center;
   padding: 8px;
   bottom: 0;
