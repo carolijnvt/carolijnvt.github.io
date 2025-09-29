@@ -27,12 +27,12 @@ text-align: center; /* De tekst staat hierdoor in het midden van het blok*/
 padding: 14px 16px; /* zorgt voor ruimte tussen de tekst en de elementen*/
 text-decoration: none; /*zorgt voor versiering van de tekst zoals onderlijning*/
 }
-
+/*Dit is voor het menu boven in de balk en dan het kleurtje dat verschijnt als je met je muis op dat kopje bent*/
 ul li a:hover { 
   background-color: rgb(221, 211, 216);
 }
-
-ul li a.active { 
+/*Dit is voor het menu boven in de balk op het tablad waar je op dat moment bent*/
+ul li a.active {  
   background-color: rgb(175, 217, 235); 
 } 
 
