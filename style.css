@@ -115,7 +115,7 @@ float: right; /*plaatst de video rechts op de pagina*/
 footer { /*naam onder aan de pagina*/
   background-color: #d7e3f3; 
   text-align: center; 
-  padding: 8px;
+  padding: 6px;
   bottom: 0; /* zorgt ervoor dat het op het uiteinde van de pagina zit*/
   position: fixed; /*zorgt ervoor dat het altijd onderaan blijft*/
   width: 97%;
